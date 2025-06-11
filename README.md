@@ -6,7 +6,7 @@ This repository contains a dashboard visualizing chocolate sales data. The dashb
 
 **Tools Used**
 
-Microsoft Power BI, Data Visualization
+Microsoft Power BI, Data Visualization, Data Cleaning
 
 **Key Insights**
 
